@@ -17,7 +17,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 ### Sample image from Dataset
 
-![sample image](https://github.com/kshitij-raj/Melanoma-Skin-Cancer-Detection/blob/b43daf05e84626d3796321e79caeb2f6f8179346/Readme_images/Samleimagefromdataset.png)
+![sample image](https://github.com/sreeharigvarma/Melanoma_Skin_Cancer_Detection/blob/main/Sample_image.png)
 
 ### Dataset download link:
   - https://drive.google.com/drive/folders/1jjGXoHstWD_kdcVVKHPjpxr1TFClB_He?usp=sharing
